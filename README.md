@@ -161,6 +161,7 @@ If We need to rely on consent as a legal basis for processing Your information a
 
 # Credits/ Attribution
 This product uses the TMDb (The Movie Database) API but is not endorsed or certified by TMDb. 
+
 Visit for more info: https://www.themoviedb.org/
 
 
