@@ -159,8 +159,9 @@ Our Service does not address anyone under the age of 13. We do not knowingly col
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 
-
-
+# Credits/ Attribution
+This product uses the TMDb (The Movie Database) API but is not endorsed or certified by TMDb. 
+Visit for more info: https://www.themoviedb.org/
 
 
 # Links to Other Websites
